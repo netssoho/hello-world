@@ -7,3 +7,7 @@
 - commit: save, stage 영역의 파일들을 가지고 commit을 만들수 있다
 - push: remote repository에 commit을 upload
 - 하나
+
+## 마스터 브랜치
+
+-- Master
